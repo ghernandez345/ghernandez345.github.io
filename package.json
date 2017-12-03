@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ghernandez345/ghernandez345.github.io/issues"
   },
-  "homepage": "https://github.com/ghernandez345/ghernandez345.github.io#readme"
+  "homepage": "https://github.com/ghernandez345/ghernandez345.github.io#readme",
+  "dependencies": {
+    "normalize.css": "^7.0.0"
+  }
 }
