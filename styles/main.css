@@ -1,5 +1,6 @@
 /* default styles */
 html {
+  background-color: #272823;
   box-sizing: border-box;
   color: #F8F8F8;
   font-family: 'Source Code Pro', monospace;
@@ -19,7 +20,6 @@ h2 {
 }
 
 .page-section {
-  background-color: #272823;
   padding: 100px;
 }
 
